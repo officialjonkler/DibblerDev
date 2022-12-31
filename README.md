@@ -12,12 +12,12 @@
 -    Unique perspective and approach to problem-solving
 -    Dedicated to continuous learning and self-improvement
 -    Skilled and versatile developer
--    Hobbies:
-    - Strength Training
-    - Musician
-    - 3D Design
-    - Skateboarding
-    -Airsofter
+-    Hobbies: 
+		- Strength Training
+    	- Musician
+		- 3D Design
+    	- Skateboarding
+    	- Airsofter
 -    Connoisseur of fine memes
 
 <br><br>
