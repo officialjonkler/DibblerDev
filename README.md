@@ -18,7 +18,7 @@
 		- 3D Design
     	- Skateboarding
     	- Airsofter
--    Connoisseur of fine memes
+-    Steals github profile templates of the internet
 
 <br><br>
 
@@ -82,6 +82,4 @@
 <br>
 <br>
 
-
-## <center><b>"programming is like sex. One mistake and you have to support it for the rest of your life..." ~ ChatGPT</b></center>
 </div>
