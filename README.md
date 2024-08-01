@@ -18,7 +18,7 @@
 		- 3D Design
     	- Skateboarding
     	- Airsofter
--    Steals github profile templates of the internet
+-    Steals github profile templates from the internet
 
 <br><br>
 
